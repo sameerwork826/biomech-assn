@@ -1,0 +1,20 @@
+Body Segment Lengths Analysis
+========================================
+Student Name: Sameer Wanjari
+Roll No: 21174028
+Branch: Engineering Physics
+Actual Height: 1.78 m
+Pixel Height: 1313.4664061177964 px
+Scale Factor: 0.001355 m/px
+
+Segment Lengths:
+----------------------------------------
+Thorax: 0.523 m (386.0 px)
+Upper Arm Left: 0.249 m (184.0 px)
+Upper Arm Right: 0.298 m (219.6 px)
+Forearm Left: 0.282 m (208.3 px)
+Forearm Right: 0.287 m (211.5 px)
+Thigh Left: 0.420 m (309.8 px)
+Thigh Right: 0.401 m (295.5 px)
+Shank Left: 0.282 m (207.8 px)
+Shank Right: 0.293 m (216.4 px)
