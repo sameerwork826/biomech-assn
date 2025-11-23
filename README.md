@@ -62,9 +62,3 @@ The script expects several anatomical landmarks such as `CV7`, `L3/L4`, `left_sh
 
 **License & attribution**
 This repository was created as a student assignment. Feel free to reuse the code for learning purposes; if you plan to redistribute or publish derived work, please include appropriate attribution to the author.
-
----
-
-If you want, I can also:
-- Add a CLI wrapper to pass `IMAGE_FILE` and `ACTUAL_HEIGHT` as command-line arguments.
-- Produce a short example run and include sample output files.
